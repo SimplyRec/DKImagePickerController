@@ -16,7 +16,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/SimplyRec/DKCamera.git", from:"1.6.7"),
-        .package(url: "https://github.com/SimplyRec/DKPhotoGallery", from:"0.0.19"),
+        .package(url: "https://github.com/SimplyRec/DKPhotoGallery", from:"0.0.20"),
         .package(url: "https://github.com/SimplyRec/TOCropViewController.git", from: "2.6.0"),
     ],
     targets: [
